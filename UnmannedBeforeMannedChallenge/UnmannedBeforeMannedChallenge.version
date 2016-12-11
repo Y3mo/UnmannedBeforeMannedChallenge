@@ -1,0 +1,18 @@
+{
+	"NAME":"Unmanned before Manned - Challenge",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=415",
+	"DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/106130",
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":2,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":2
+	}
+}
